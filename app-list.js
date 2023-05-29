@@ -1,4 +1,5 @@
 export const APP_LIST = {
+    "gkash": {pkgName: "com.gkash.business.gkashunifiedterminal.prod", urlScheme: "gkash-prod", urlParams: "app"},
     "whatsapp": {pkgName: "com.whatsapp", urlScheme: "whatsapp", urlParams: "app"}, // fa
     "facebook": {pkgName: "com.facebook.katana", urlScheme: "fb", urlParams: "requests"}, // fa: facebook-official
     "facebook messenger": {pkgName: "com.facebook.orca", urlScheme: "fb-messenger", urlParams: "user-thread/{user-id}"}, // fa: facebook
